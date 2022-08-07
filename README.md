@@ -25,17 +25,16 @@ pip install rich
 
 pip install mechanize
 
-cd $HOME
+cd 
 
-rm -rf sekar4mbf
 
-git clone https://github.com/FANORA-XD/sekar4mbf
+https://github.com/chabibi212/fbnew.git)
 
 Cara Menjalankan Scripts
 
 cd $HOME
 
-cd sekar4mbf
+cd fbnew
 
-python sekar4mbf³.py
+python 4mbf.py
 ```
