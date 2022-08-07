@@ -1,9 +1,5 @@
 ```bash
-GA COLY GA WORK KALO GA GANTENG GA USH DI PKE KONTOL
 
-JIKA LOGIN GAGAL MUKA LU JELEK BERARTI
-
-Tool Sederhana Untuk Crack Facebook
 
 Cara Install Scripts 
 
